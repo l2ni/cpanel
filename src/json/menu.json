@@ -1,0 +1,81 @@
+[{
+        "name": "Clients",
+        "add": "Add New Client",
+        "viwe": "List All Clients",
+        "to": "users",
+        "set": false,
+        "i": "fas fa-users",
+        "list": {
+            "data": []
+        }
+    }, {
+        "name": "foods",
+        "add": "Add New food",
+        "viwe": "List All",
+        "to": "foods",
+        "set": true,
+        "i": "fas fa-utensils",
+        "list": {
+            "data": []
+        }
+    },
+    {
+        "name": "Swimming Workouts",
+        "add": "Add New",
+        "viwe": "List All",
+        "to": "Workouts",
+        "set": false,
+        "sections": true,
+        "i": "fas fa-swimmer",
+        "list": {
+            "data": []
+        }
+    },
+    {
+        "name": "Fitness",
+        "add": "Add New",
+        "viwe": "List All",
+        "to": "Fitness",
+        "set": false,
+        "sections": true,
+        "i": "fas fa-running",
+        "list": {
+            "data": []
+        }
+    }, {
+        "name": "Specialized Culture",
+        "add": "Add New",
+        "viwe": "List All",
+        "to": "Culture",
+        "set": false,
+        "sections": true,
+        "i": "fas fa-book",
+        "list": {
+            "data": []
+        }
+    },
+    {
+        "name": "Coach's Guide",
+        "add": "Add New",
+        "viwe": "List All",
+        "to": "Coaches",
+        "set": false,
+        "sections": true,
+        "i": "fab fa-angellist",
+        "list": {
+            "data": []
+        }
+    },
+    {
+        "name": "Settings App",
+        "add": 0,
+        "viwe": 0,
+        "to": "/Settings",
+        "sections": true,
+        "i": "fas fa-cogs",
+        "list": {
+            "data": []
+        }
+    }
+
+]
